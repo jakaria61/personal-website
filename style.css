@@ -1,0 +1,36 @@
+.half-width{
+    width: 50%;
+    color: hotpink;
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+.half-width img{
+    width: 50%;
+    border-radius: 10%;
+    
+}
+.container{
+    display: flex;
+    margin: 150px;
+    border: 2px solid green;
+    padding: 20px;
+}
+.btn{
+    padding: 20px;
+    color:red ;
+    background-color: black;
+    border-radius: 100px;
+}
+.container2{
+    display: flex;
+    margin-left:18%;
+    padding: 20px;
+     margin-right 15%;;
+}
+.container2 img{
+    width: 220px; 
+    padding: 20px;
+}
+.work{
+    text-align: center;
+}
